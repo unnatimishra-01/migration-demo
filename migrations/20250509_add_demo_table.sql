@@ -1,5 +1,4 @@
--- Create a demo table
-CREATE TABLE demo (
+CREATE TABLE IF NOT EXISTS demo (
   id SERIAL PRIMARY KEY,
   name TEXT NOT NULL
 );
