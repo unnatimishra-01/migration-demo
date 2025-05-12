@@ -1,0 +1,1 @@
+ALTER TABLE demo ADD COLUMN updated_at TIMESTAMP DEFAULT now();
