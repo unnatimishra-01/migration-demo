@@ -1,0 +1,1 @@
+ALTER table demo ADD COLUMN address TEXT;
